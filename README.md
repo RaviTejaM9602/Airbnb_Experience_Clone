@@ -3,7 +3,7 @@ Building Airbnb Experience clone using React (Props and Custom Components)
 
 ## Screenshot
 
-![Airbnb_Clone(Page1)](../Airbnb_Experience_Clone/airbnb/public/images/Airbnb_webpage.png)
+![Airbnb_Clone](../Airbnb_Experience_Clone/images/Airbnb_webpage.png)
 
 # Getting Started with Create React App
 
