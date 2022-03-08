@@ -37,6 +37,15 @@
   }
 }
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
 nav {
   height: 70px;
   display: flex;
@@ -94,6 +103,7 @@ section {
 }
 
 .card--image {
+  width: 100%;
   border-radius: 9px;
   margin-bottom: 9px;
 }
